@@ -36,7 +36,6 @@
 
 ```
 credit_card_fraud_detection/
-├── creditcard.csv                  # Source dataset (ULB ML Group — not committed)
 ├── credit_card_fraud_detection.ipynb  # Main Jupyter Notebook
 ├── precision_recall_curve.png      # Comparative PR curve visualization
 └── README.md
